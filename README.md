@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **AWS and DevOps Tolls (Terraform, Ansible, Jenkins)**
 
+- 📫 How to reach me **https://www.linkedin.com/in/veli-kara-4b4549294/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
