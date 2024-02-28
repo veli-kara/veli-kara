@@ -5,4 +5,3 @@
 
 - 📫 How to reach me **www.linkedin.com/in/veli-kara-4b4549294**
 
-asdasdasd
