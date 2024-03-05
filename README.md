@@ -62,6 +62,6 @@
 
 ###
 
-<p align="left">- AWS Cloud Practitioner<br>- Linux Essentials Certificate<br>- Professional Scrum Master<br>- AWS Solution Architect Associate (On-going)</p>
+<p align="left">- AWS Cloud Practitioner<br>- Linux Essentials Certificate<br>- Professional Scrum Master<br>- AWS Solution Architect Associate (On-Going)</p>
 
 ###
