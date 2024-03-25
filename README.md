@@ -62,6 +62,24 @@
 
 ###
 
-<p align="left">- AWS Cloud Practitioner<br>- Linux Essentials Certificate<br>- Professional Scrum Master<br>- AWS Solution Architect Associate (On-Going)</p>
+<p align="left">- AWS Cloud Practitioner<br>- Linux Essentials Certificate<br>- Professional Scrum Master</p>
+
+###
+
+<h3 align="left">DevOps Skills</h3>
+
+###
+
+<br clear="both">
+
+<p align="left">- Automation with Jenkins<br>- Infrastructure as Code (IaC) with Terraform<br>- Containerization with Docker<br>- Configuration Management with Ansible<br>- Monitoring and Logging with Grafana and Prometheus<br>- Version Control with Git<br>- Agile Software Development and Scrum methodologies<br>- Continuous Integration & Delivery (CI/CD) practices<br>- Cloud Services, particularly in AWS<br>- Security Best Practices in DevOps<br>- Incident Response and Management<br>- Collaboration and Communication tools (e.g., Slack, Microsoft Teams)<br>- Scripting languages, including Python and Bash<br>- Performance Optimization and Scalability<br>... (other DevOps tools and practices)</p>
+
+###
+
+<h3 align="left">Languages</h3>
+
+###
+
+<p align="left">- Turkish (Native)<br>- German (C1)<br>- English (B2)</p>
 
 ###
